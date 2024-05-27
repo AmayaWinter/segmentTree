@@ -1,0 +1,1 @@
+A simple and dirty array based implementation of a segment tree. Just a toy to practice working with Go.
